@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Create your meme with this Meme generator built in React Native",
+    "githubUrl": "https://github.com/vivaldogaston/meme-generator-expo"
   }
 }
